@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weight Wise</string>
+    <string name="editTextUsername"><font color='c4c4c4'>Phone number, email or username</font></string>
+    <string name="editTextPassword"><font color='c4c4c4'>Password</font></string>
+    <string name="editTextConfirmPassword"><font color='c4c4c4'>Confirm Password</font></string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="edit_text_weight">Enter Weight</string>
+    <string name="edit_text_date">Enter Date</string>
+    <string name="save">Save</string>
+    <string name="action_settings">Settings</string>
+</resources>
